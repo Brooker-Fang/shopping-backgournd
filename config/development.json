@@ -1,0 +1,10 @@
+{
+  "title": "前端书城 -- 开发环境",
+  "db_config": {
+    "host": "localhost",
+    "name": "react-shopping",
+    "user": "fhhong",
+    "pass": "123456",
+    "port": "27017"
+  }
+}
